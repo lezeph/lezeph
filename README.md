@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @lezeph. I'm a web developer , data manager and system administrator with more than 8 years of experience in these fields
+- 👋 Hi, I’m @lezeph. I'm a web developer , data and sql server database developer and manager and system administrator with more than 7 years of experience
 - 👀 I’m interested in Angular, Ionic, SQL Database Development, ASP.NET, PHP, Java Sprint Boot 
 - 🌱 I’m currently learning Java Sprint Boot, Ionic 
 - 💞️ I’m looking to collaborate on projects for business accounting administration, projects management 
